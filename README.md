@@ -1,2 +1,2 @@
 # first-repository
-#Repository for first lecture of MPM
+Repository for first lecture of MPM
